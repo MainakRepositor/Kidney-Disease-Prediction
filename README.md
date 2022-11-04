@@ -1,6 +1,6 @@
 # Cardiac Arrest Predictor
 
-![home](https://user-images.githubusercontent.com/64016811/198942838-0e6e4445-4d29-4f88-ab03-b89460b37bf0.png)
+![home](https://user-images.githubusercontent.com/64016811/200041651-07b3160e-8464-4ee0-9e6d-760bd88a9f59.png)
 
 
 ### Problem : 
