@@ -29,8 +29,7 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 └─── main.py
 └─── web_functions.py
 └─── requirements.txt
-└─── Procfile
-└─── setup.sh
+
 ```
 
 
@@ -45,7 +44,3 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 ![image](https://user-images.githubusercontent.com/64016811/198943581-38dc1948-caac-4762-9f1a-1bdf2ef887f3.png)
 
 
-### Made with 💙 by:
-![maker](https://user-images.githubusercontent.com/64016811/198821378-09bf5224-a537-4154-9df9-d9b29da95af7.jpg)
-
-## MAINAK CHAUDHURI
